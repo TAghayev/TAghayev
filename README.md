@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taghayev" alt="taghayev" /></a> </p>
 
-- 🔭 I’m currently working on [Crawfish Encrypted Messaging App](https://github.com/TAghayev/Crawfish)
+- 🔭 I’m currently working on [Crawfish Encrypted Messaging App](https://github.com/TAghayev/)
 
 - 👨‍💻 All of my projects are available at [github.com/TAghayev/](github.com/TAghayev/)
 
